@@ -1,4 +1,5 @@
 # SQL-Challenge
+![QuickDBD-Module 9](https://user-images.githubusercontent.com/116124181/210909378-d6462bd8-27a5-4ff8-90cc-691abd108630.png)
 
 Background It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
